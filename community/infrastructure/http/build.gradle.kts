@@ -7,5 +7,7 @@ jar.enabled = true
 bootJar.enabled = false
 
 dependencies {
-    implementation(project(":universitas-common"))
+    implementation(project(":common"))
+    implementation(project(":domain"))
+    implementation(project(":usecase"))
 }
