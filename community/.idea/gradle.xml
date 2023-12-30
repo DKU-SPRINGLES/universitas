@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="corretto-17 (2)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/bootstrap/api" />
+            <option value="$PROJECT_DIR$/bootstrap/batch" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/domain" />
+            <option value="$PROJECT_DIR$/infrastructure/http" />
+            <option value="$PROJECT_DIR$/infrastructure/persistence" />
+            <option value="$PROJECT_DIR$/infrastructure/redis" />
+            <option value="$PROJECT_DIR$/usecase" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

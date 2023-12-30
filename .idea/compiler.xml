@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/3.2.0/c118a8d5f464983d7298b0f849cb9278f08d1f1e/spring-boot-configuration-processor-3.2.0.jar" />
+        </processorPath>
+        <module name="qna.domain.main" />
+        <module name="qna.infrastructure-redis.main" />
+        <module name="qna.infrastructure-http.main" />
+        <module name="qna.usecase.main" />
+        <module name="qna.bootstrap-api.main" />
+        <module name="qna.common.main" />
+        <module name="qna.infrastructure-persistence.main" />
+        <module name="qna.bootstrap-batch.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="domain" target="17" />
+      <module name="domain.main" target="17" />
+      <module name="domain.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

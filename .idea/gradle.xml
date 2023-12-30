@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/community" />
+        <option name="gradleJvm" value="corretto-17 (2)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/community" />
+            <option value="$PROJECT_DIR$/community/bootstrap/api" />
+            <option value="$PROJECT_DIR$/community/bootstrap/batch" />
+            <option value="$PROJECT_DIR$/community/common" />
+            <option value="$PROJECT_DIR$/community/domain" />
+            <option value="$PROJECT_DIR$/community/infrastructure/http" />
+            <option value="$PROJECT_DIR$/community/infrastructure/persistence" />
+            <option value="$PROJECT_DIR$/community/infrastructure/redis" />
+            <option value="$PROJECT_DIR$/community/usecase" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/qna" />
+        <option name="gradleJvm" value="corretto-17 (2)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/qna" />
+            <option value="$PROJECT_DIR$/qna/bootstrap/api" />
+            <option value="$PROJECT_DIR$/qna/bootstrap/batch" />
+            <option value="$PROJECT_DIR$/qna/common" />
+            <option value="$PROJECT_DIR$/qna/domain" />
+            <option value="$PROJECT_DIR$/qna/infrastructure/http" />
+            <option value="$PROJECT_DIR$/qna/infrastructure/persistence" />
+            <option value="$PROJECT_DIR$/qna/infrastructure/redis" />
+            <option value="$PROJECT_DIR$/qna/usecase" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
