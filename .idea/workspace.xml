@@ -102,8 +102,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703827407179</updated>
-      <workItem from="1703827408188" duration="15810000" />
+      <workItem from="1703827408188" duration="16136000" />
     </task>
+    <task id="LOCAL-00001" summary="[UNVTS-12] feat: 프로젝트 초기 세팅">
+      <option name="closed" value="true" />
+      <created>1703947581024</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703947581024</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,5 +143,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[UNVTS-12] feat: 프로젝트 초기 세팅" />
+    <option name="LAST_COMMIT_MESSAGE" value="[UNVTS-12] feat: 프로젝트 초기 세팅" />
   </component>
 </project>
